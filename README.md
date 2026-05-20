@@ -2,6 +2,7 @@
 
 Bu proje C# Windows Forms kullanılarak geliştirilmiş  bir öğrenci kayıt sistemidir.
 
+
 ## Projenin Özellikleri
 
 - Öğrenci bilgisi ekleme
