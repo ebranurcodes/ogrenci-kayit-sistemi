@@ -1,7 +1,6 @@
 # Öğrenci Kayıt Sistemi
 
-Bu proje C# Windows Forms kullanılarak geliştirilmiş  bir öğrenci kayıt sistemidir.
-
+Bu proje C# Windows Forms kullanılarak geliştirilmiş basit bir öğrenci kayıt sistemidir.
 
 ## Projenin Özellikleri
 
